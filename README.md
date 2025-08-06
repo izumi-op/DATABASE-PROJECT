@@ -1,6 +1,5 @@
 # DATABASE-PROJECT
 Pharmacy Management System and doctor information
-Here is a README.md file you can use for your GitHub repository. It includes a project title, a brief description, key features, technologies used, setup instructions, and an overview of the database schema.
 
 🏥 Pharmacy Management System and doctor information
 Project Description
